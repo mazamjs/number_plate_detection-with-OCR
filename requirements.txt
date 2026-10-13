@@ -1,5 +1,6 @@
 streamlit
+ultralytics
 easyocr
 pillow
 numpy
-ultralytics
+opencv-python-headless==4.12.0.88
